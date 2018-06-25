@@ -1,0 +1,1 @@
+﻿SELECT nome, altura FROM pokemons ORDER BY nome DESC;
