@@ -1,1 +1,1 @@
-﻿SELECT nome, altura FROM pokemons ORDER BY nome DESC;
+﻿SELECT nome, altura, LEN(nome)'Quantidade Caracteres' FROM pokemons ORDER BY 'Quantidade Caracteres' ;
