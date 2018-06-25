@@ -1,0 +1,1 @@
+﻿SELECT nome, categoria, ataque FROM pokemons WHERE ataque < 2 
