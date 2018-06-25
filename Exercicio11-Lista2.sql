@@ -1,0 +1,1 @@
+﻿SELECT SUM(ataque)'Soma de ataque de todos os pokemons' FROM pokemons;
